@@ -1,6 +1,6 @@
 {
   "name": "processing-transpiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transpile Processing sketches into p5.js JavaScript code",
   "type": "module",
   "main": "src/index.js",
@@ -18,7 +18,6 @@
   ],
   "dependencies": {
     "java-parser": "^3.0.1",
-    "js-beautify": "^1.15.4",
-    "prettier": "^3.6.2"
+    "js-beautify": "^1.15.4"
   }
 }

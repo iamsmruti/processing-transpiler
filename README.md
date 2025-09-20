@@ -13,8 +13,6 @@ This tool parses Processing code, applies transformations, and formats the outpu
 npm install processing-transpiler
 ```
 
-Make sure you have Node.js v22+.
-
 ## Usage
 
 ```javascript
