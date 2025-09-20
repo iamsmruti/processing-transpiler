@@ -1,0 +1,24 @@
+{
+  "name": "processing-transpiler",
+  "version": "1.0.0",
+  "description": "Transpile Processing sketches into p5.js JavaScript code",
+  "type": "module",
+  "main": "src/index.js",
+  "keywords": [
+    "processing",
+    "p5js",
+    "transpiler",
+    "pde",
+    "javascript"
+  ],
+  "author": "Smruti Ranjan Badatya",
+  "license": "MIT",
+  "files": [
+    "src/"
+  ],
+  "dependencies": {
+    "java-parser": "^3.0.1",
+    "js-beautify": "^1.15.4",
+    "prettier": "^3.6.2"
+  }
+}
